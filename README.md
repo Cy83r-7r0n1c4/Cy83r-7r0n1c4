@@ -18,8 +18,8 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-joseph-6459111ba/)
-[![image](https://img.shields.io/badge/Bugcrowd-E4405F?style=for-the-badge&logo=Bugcrowd&logoColor=white)](https://bugcrowd.com/cyber_sha)
-[![image](https://img.shields.io/badge/Hackerone-1DA1F2?style=for-the-badge&logo=Hackerone&logoColor=white)](https://hackerone.com/cybersha256?type=user)
+[![image](https://img.shields.io/badge/Bugcrowd-E4405F?style=for-the-badge&logo=Bugcrowd&logoColor=white)](https://bugcrowd.com/Cy83r_7r0n1c4)
+[![image](https://img.shields.io/badge/Hackerone-1DA1F2?style=for-the-badge&logo=Hackerone&logoColor=white)](https://hackerone.com/cy83r_7r0n1c4?type=user)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.cybersha256@gmail.com)
   
 </div>
